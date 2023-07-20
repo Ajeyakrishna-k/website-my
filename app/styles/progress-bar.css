@@ -1,6 +1,3 @@
-:root {
-  --progress-bar-color: rgba(0, 128, 0, 0.9);
-}
 .progress-bar-container {
   display: flex;
   gap: 4px;
@@ -18,9 +15,8 @@
 }
 
 .progress-bar__edit-icon {
-  width: 95%;
-  height: 95%;
-  margin-bottom: 2px;
+  width: 85%;
+  height: 85%;
 }
 .progress-bar__input-slider {
   -webkit-appearance: none;
